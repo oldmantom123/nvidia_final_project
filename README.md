@@ -1,8 +1,8 @@
 # sheep_goats'
 
- Add short description of project here > 
+this will help farmers identify the difference between sheeps and goats easier.  
 
-![add image descrition here](direct image link here)
+![this is a hippo](https://th.bing.com/th/id/OIP.AWcILrUa-ho-OErdC8_7XgHaEo?w=282&h=180&c=7&r=0&o=5&cb=11&pid=1.7)
 
 ## The Algorithm
 
