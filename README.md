@@ -1,6 +1,7 @@
 # sheep_goats'
 
-this will help farmers identify the difference between sheeps and goats easier.  
+it would aid farmers in knowing which animal is which and knowing what to do with that information. It could help them know which type of food to feed them and in what pen to put that in.
+.  
 
 ![this is a hippo](https://th.bing.com/th/id/OIP.AWcILrUa-ho-OErdC8_7XgHaEo?w=282&h=180&c=7&r=0&o=5&cb=11&pid=1.7)
 
